@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Presentation AI",
+  "description": "An advanced AI-powered PPT generation tool that creates structured presentations, generates high-quality 4K imagery, and analyzes visual assets to enhance your storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
